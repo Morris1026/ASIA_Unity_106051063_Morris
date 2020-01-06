@@ -57,9 +57,9 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 10824}
+      Script: {instanceID: 10368}
     - Class: 114
-      Script: {instanceID: 12350}
+      Script: {instanceID: 11246}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 136
@@ -500,4 +500,4 @@ ScriptsOnlyBuild:
   platform: 20
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
-  playerPath: "C:/Users/morri/OneDrive/\u6587\u4EF6/GitHub/ASIA_Unity_106051063_Morris/Web"
+  playerPath: F:/ASIA_Unity_106051063_Morris/Web
